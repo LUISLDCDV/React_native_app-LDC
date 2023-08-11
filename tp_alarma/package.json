@@ -1,0 +1,33 @@
+{
+  "name": "tp_alarma",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~48.0.18",
+    "expo-av": "^13.2.1",
+    "expo-constants": "~14.2.1",
+    "expo-intent-launcher": "~10.5.2",
+    "expo-linking": "~4.0.1",
+    "expo-status-bar": "~1.4.4",
+    "react": "18.2.0",
+    "react-datetime-picker": "^5.2.0",
+    "react-native": "0.71.8",
+    "react-native-alert": "^1.0.3",
+    "react-native-animated-modal": "^1.1.0",
+    "react-native-date-picker": "^4.2.13",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-gif": "^1.0.3",
+    "react-native-modal-datetime-picker": "^15.0.1",
+    "react-native-web": "~0.18.11"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
